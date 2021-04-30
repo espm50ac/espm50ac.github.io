@@ -616,6 +616,21 @@ figure.effect-bubba:hover p {
 	}
 }
 
+.lead-img {
+		width: 20rem;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.percentile-img {
+  width: 90rem;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 .tm-form-container {
 	padding-left: 90px;
 	padding-right: 90px;
