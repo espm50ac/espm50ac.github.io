@@ -623,6 +623,13 @@ figure.effect-bubba:hover p {
     margin-right: auto;
 }
 
+.child-img {
+  width: 30rem;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .percentile-img {
   width: 30rem;
   height: 100%;
