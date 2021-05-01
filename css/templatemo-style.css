@@ -624,7 +624,15 @@ figure.effect-bubba:hover p {
 }
 
 .child-img {
-  width: 30rem;
+  width: 10rem;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.pipe-img {
+  width: 40rem;
   height: 100%;
   margin-left: auto;
   margin-right: auto;
