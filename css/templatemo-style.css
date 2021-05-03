@@ -132,7 +132,7 @@ ul {
 
 /* Colors */
 
-.tm-text-secondary { color: #669999; }
+.tm-text-secondary { color: #86643e; }
 .tm-bg-primary { background-color: #af8d5b; }
 .tm-bg-gradient {
   background: linear-gradient(
@@ -371,7 +371,7 @@ ul.tm-list-plus li:before {
 
 .tabs > li > a.active .tm-tab-icon,
 .tabs > li > a:hover .tm-tab-icon {
-  background-color: #669999;
+  background-color: #7c746d;
 }
 
 .tm-about-person { max-width: 280px; }
