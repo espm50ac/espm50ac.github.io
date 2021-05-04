@@ -391,7 +391,7 @@ ul.tm-list-plus li:before {
 
 .tabs > li > a.active .tm-tab-icon,
 .tabs > li > a:hover .tm-tab-icon {
-  background-color: #92754e;
+  background-color: #7c684d;
 }
 
 .tm-about-person { max-width: 280px; }
